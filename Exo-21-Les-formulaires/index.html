@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>formulaire</title>
+</head>
+<body>
+    <h1>mon formulaire</h1>
+    <form action="mapage.html" method="post">
+        <fieldset>
+            <div>
+                <label for="message">texte:</label>
+                <textarea name="user_message" id="message" cols="30" rows="10"></textarea>
+            </div>
+            <div>
+                <label for="password">password:</label>
+                <input type="password" id="password">
+            </div>
+            <div>
+                <label for="date">date:</label>
+                <input type="date" id="date">
+            </div>
+            <div>
+                <input type="color" name="user_color">
+            </div>
+            <div>
+                <label for="sexe"></label>
+                <select name="user_sexe" id="sexe">
+                    <option value="male">homme</option>
+                    <option value="female">femme</option>
+                    <option value="male">homme</option>
+                    <option value="female">femme</option>
+                    <option value="male">homme</option>
+                    <option value="female">femme</option>
+                    <option value="male">homme</option>
+                    <option value="female">femme</option>
+                    <option value="male">homme</option>
+                    <option value="female">femme</option>
+                </select>
+            </div>
+            <div>
+                <input type="reset" name="user_reset">
+            </div>
+            <div>
+
+                <button type="submit" name="user_submit">envoyer</button>
+
+            </div>
+            <div>
+                <input type="radio" name="sexe" value="homme" checked>homme
+                <input type="radio" name="sexe" value="femme">femme
+                <input type="radio" name="sexe" value="X">X
+            </div>
+        </fieldset>
+    </form>
+
+</body>
+</html>
