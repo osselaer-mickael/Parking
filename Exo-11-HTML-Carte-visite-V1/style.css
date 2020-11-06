@@ -1,0 +1,60 @@
+body{
+    background-color: blue;
+}
+
+h1 {
+    border-radius: 10px;
+    border: 2px solid white;
+    background-image: url("pngtree-blue-geometric-business-card-background-image_239795.jpg") ;
+    color: gray;
+    width: 280px;
+    background-color: blue;
+    margin-left: 35px;
+}
+
+h2 {
+    color: gray;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-image: url("pngtree-blue-geometric-business-card-background-image_239795.jpg") ;
+    width: 110px;
+    margin-left: 20px;
+    padding-left: 30px;
+}
+
+form {
+    background-image: url("pngtree-blue-geometric-business-card-background-image_239795.jpg");
+    box-shadow: 8px 6px 10px 2px lightgrey;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin-right: 580px;
+    margin-top: 200px;
+}
+
+img {
+    float: right;
+    margin-bottom: 0;
+    padding-left: 0;
+    width: 150px;
+    height: 140px;
+    margin-right: 30px;
+    border: 2px solid white;
+    border-radius: 180px 180px;
+    margin-top: -40px;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+li {
+    text-decoration-line: none;
+    color: black;
+    font-size: large;
+    font-family: "Arial Black", sans-serif;
+}
+
+a{
+    text-decoration-line: none;
+}
