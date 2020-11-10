@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    color: white;
+    border: 0.5px solid limegreen;
+    background-color: limegreen;
+    padding: 10px 50px 8px 0px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination a{
+    text-align: center;
+    background-color: limegreen;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+body {
+    background-image: url("Recette-site-internet-600x600.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration-style: solid;
+    text-transform: capitalize;
+    color: wheat;
+    text-shadow: 1px 1px 3px black;
+}
+
+
+

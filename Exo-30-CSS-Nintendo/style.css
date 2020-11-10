@@ -1,0 +1,141 @@
+.bordure1 {
+    background-color: #e60012;
+    border: 1px solid black;
+    height: 95px;
+    margin-left: -10px;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+
+img {
+    height: 50px;
+    width: 160px;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+
+.fa-search {
+    color: white;
+    float: right;
+    margin-right: 300px;
+    margin-top: 40px;
+    font-size: 25px;
+    width: 55px;
+    height: 36px;
+}
+
+.séparation {
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 1600px;
+    padding-top: 50px;
+    margin-top: -50px;
+    margin-right: 320px;
+}
+
+.fa-shopping-cart {
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin-left: 32px;
+    width: 40px;
+    margin-top: -35px;
+    height: 25px;
+    padding-left: 0;
+    margin-right: -85px
+}
+
+.séparation2 {
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 1660px;
+    margin-right: 260px;
+    height: 0;
+    width: 0;
+    padding-top: 51px;
+    margin-top: -52px;
+}
+
+#image2 {
+    float: right;
+    padding-left: 0;
+    margin-left: 0;
+    margin-right: 75px;
+    padding-top: 0;
+    margin-top: -60px;
+    width: 180px;
+    height: 70px;
+}
+
+.bordure2 {
+    background-color: #e60012;
+    border:1px solid black;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 9px;
+    margin-left: -8px;
+    margin-right: 1800px;
+}
+
+.game, .jeux, .store {
+    border-top-right-radius: 20px;
+    border: 1px solid black;
+    margin-left: -10px;
+    padding-bottom: 110px;
+}
+
+.e-shop, .assistance {
+    border: 1px solid black;
+    margin-left: -10px;
+    padding-bottom: 110px;
+}
+
+.social, .point {
+    border: 1px solid black;
+    margin-left: -10px;
+    padding-bottom: 70px;
+}
+
+#photo_gamme {
+    padding-top: 15px;
+    padding-left: 20px;
+    float: left;
+    margin-left: -10px;
+    width: 90px;
+    height: 80px;
+}
+
+#photo_jeux {
+    float: left;
+    padding-left: 8px;
+    width: 85px;
+    height: 80px;
+    padding-bottom: -18px;
+    padding-top: 8px;
+    margin-bottom: -90px;
+}
+
+#eshop, #assistance, #store, #social {
+    float: left;
+    padding-left: 8px;
+    width: 85px;
+    height: 80px;
+    padding-bottom: -18px;
+    padding-top: 8px;
+    margin-bottom: -90px;
+}
+
+#social, #point {
+    float: left;
+    width: 60px;
+    height: 55px;
+    padding-left: 20px;
+}
+
+#point {
+    padding-left: 25px;
+    padding-top: 15px;
+    width: 40px;
+    height: 40px;
+}

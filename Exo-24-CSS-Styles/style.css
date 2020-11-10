@@ -1,0 +1,61 @@
+#paragraphes {
+    color: blue;
+    font-size: small;
+}
+
+.general {
+    color: blue;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+.reference {
+    color: black;
+    font-style: italic;
+}
+
+.produit {
+    color: coral;
+    font-style: italic;
+}
+
+#title h3 {
+    color: red;
+    font-variant: small-caps;
+}
+
+blockquote p {
+    text-indent: 20px;
+    text-transform: capitalize;
+}
+
+span {
+    color: lime;
+    font-family: fantasy;
+}
+
+body {
+    font-family: Verdana, Arial, Serif;
+    background-color: white;
+}
+
+h1, h2, h3 {
+    font-family: Arial;
+    text-decoration-line: underline;
+}
+
+th {
+    font-variant: small-caps;
+}
+
+.class_reference {
+   background-color: grey;
+}
+
+.class_reference, .produit, .reference, .general, .reference {
+    text-transform: capitalize;
+}
+
+#second_paragraphe {
+    background-color: grey;
+}

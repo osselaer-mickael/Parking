@@ -1,0 +1,112 @@
+.menu {
+    border: 1px solid grey;
+    background-color: grey;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-bottom: 35px;
+}
+
+p {
+    font-size: small;
+    color: white;
+    padding-left: -23px;
+    height: 20px;
+    width: 400px;
+    padding-bottom: 0px;
+    margin: 24px -10px -15px 300px;
+}
+
+#pays {
+    border: 3px solid dodgerblue;
+    background-color: grey;
+    font-size: large;
+    color: white;
+    border-radius: 5px;
+    margin-left: 780px;
+    margin-bottom: 1px;
+    margin-top: -41px;
+    padding: 5px 250px 5px 30px;
+}
+
+.button {
+    background-color: dodgerblue;
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    margin-left: 15px;
+    padding: 5px 20px;
+}
+
+.menu2 {
+    background-color: black;
+    border: 2px solid black;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#mac {
+    color: white;
+    text-decoration-line: none;
+    margin-left: 385px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: -32px;
+    padding-top: 15px;
+    padding-right: 60px;
+}
+
+#ipad {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+#iPhone {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+#Watch {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+#TV {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+#Music {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+#Assistance {
+    color: white;
+    text-decoration-line: none;
+    padding-right: 55px;
+}
+
+
+i {
+    color: white;
+    margin-left: 340px;
+    margin-right: -345px;
+}
+
+.fa-search {
+    color: white;
+    margin-left: 0;
+}
+
+.fa-shopping-bag {
+    color: white;
+    margin-left: 390px;
+}

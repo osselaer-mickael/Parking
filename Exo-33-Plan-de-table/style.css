@@ -1,0 +1,184 @@
+form {
+    background-color: wheat;
+    border: 2px solid black;
+    margin: 100px 252px 20px 300px;
+    border-radius: 5px;
+    padding-bottom: 0;
+    box-shadow: 8px 6px 10px 2px lightgrey;
+}
+
+.table1 {
+    border: 3px solid black;
+    padding-bottom: 70px;
+    padding-left: -2px;
+    margin-left: 245px;
+    margin-right: 120px;
+    border-radius: 5px;
+    margin-top: -390px;
+}
+
+.séparation1 {
+    border: 2px solid black;
+    margin-left: 420px;
+    padding-bottom: 68px;
+    margin-bottom: -75px;
+    margin-right: 200px;
+    padding-right: 0;
+    height: 0;
+}
+
+.séparation2 {
+    border: 2px solid black;
+    padding-right: -70px;
+    margin: 21px 483px -70px 140px;
+    padding-bottom: 67px;
+    padding-top: 0px;
+}
+
+.table2 {
+    border: 3px solid black;
+    margin-left: 860px;
+    border-radius: 5px;
+    padding-bottom: 330px;
+    margin-top: -360px;
+    margin-bottom: 0;
+    padding-top: 100px;
+}
+
+
+.table4 {
+    border: 3px solid black;
+    padding-bottom: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 5px;
+}
+
+.table3 {
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-left: 240px;
+    margin-top: 60px;
+    padding-top: 70px;
+    margin-right: 275px;
+}
+
+.table5 {
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-top: -300px;
+    padding-top: 295px;
+    padding-left: 70px;
+    padding-right: 0;
+    margin-right: 170px;
+    margin-left: 690px;
+}
+
+.table6 {
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-left: 240px;
+    margin-top: 150px;
+    padding-top: 70px;
+    margin-right: 275px;
+}
+
+.bureau {
+    border: 3px solid black;
+    border-radius: 5px;
+    padding-top: 11px;
+    height: 133px;
+    padding-left: 39px;
+    width: 25px;
+    margin: 240px 890px 0 59px;
+}
+
+.table1, .table2, .table3, .table4, .table5, .table6, .bureau {
+    background-color: peru;
+    box-shadow: 8px 6px 10px 2px lightgrey;
+}
+
+.Jérôme {
+    border: 3px solid black;
+    width: 55px;
+    padding-bottom: 20px;
+    padding-left: -4px;
+    margin-left: -37px;
+    margin-top: -2px;
+    margin-right: 11px;
+    padding-right: 0;
+}
+
+#jerome {
+    margin-left: -31px;
+    margin-top: -21px;
+}
+
+.yan {
+    border: 3px solid black;
+    margin: 9px 51px -83px 470px;
+}
+
+.laurie {
+    border: 3px solid black;
+    padding-top: 0;
+    padding-right: -11px;
+    margin: 6px 195px -140px 335px;
+}
+
+.clément {
+    border: 3px solid black;
+    margin: 84px 359px -111px 157px;
+}
+
+.Chloé {
+    border: 3px solid black;
+    width: 55px;
+    padding-left: -4px;
+    padding-right: 5px;
+    margin: 55px 510px -60px 10px;
+}
+
+.micka {
+    border: 3px solid black;
+    margin-left: 624px;
+    margin-right: 10px;
+}
+
+.Gaëtan {
+    border: 3px solid black;
+    margin-left: 489px;
+    margin-right: 145px;
+    margin-top: -55px;
+}
+
+.séparation3 {
+    border: 3px solid black;
+    padding-top: 76px;
+    padding-bottom: -39px;
+    margin: -2px 268px -76px 465px;
+}
+
+.moi {
+    border: 3px solid black;
+    padding-top: 0;
+    padding-bottom: -14px;
+    margin: -56px 259px -218px 384px;
+}
+
+.Sylvie {
+    border: 3px solid black;
+    margin: 164px 453px -173px 188px;
+}
+
+.séparation4 {
+    border: 3px solid black;
+    padding-top: 31px;
+    padding-bottom: 32px;
+    margin: -56px 655px -67px 171px;
+}
+
+.PY {
+    border: 3px solid black;
+    margin: 118px 639px -121px 8px;
+}

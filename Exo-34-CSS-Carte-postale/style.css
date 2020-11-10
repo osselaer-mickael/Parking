@@ -1,0 +1,111 @@
+body {
+    background-color: #e1e1e1;
+}
+
+form {
+    background-color: white;
+    border: 1px solid grey;
+    width: 600px;
+    margin-left: 633px;
+    margin-top: 170px;
+    padding-bottom: 0;
+    height: 350px;
+}
+
+.para1{
+    margin-right: 340px;
+    margin-top: 80px;
+    margin-left: 25px;
+}
+
+.para2 {
+    margin-left: 24px;
+    margin-right: 347px;
+    margin-top: 40px;
+}
+
+.ligne_vertical {
+    border: 1px solid black;
+    margin-left: 330px;
+    margin-right: 270px;
+    margin-top: 155px;
+    padding-bottom: 295px;
+}
+
+.timbre {
+    border: 1px solid black;
+    width: 70px;
+    margin-left: 500px;
+    padding-top: 0;
+    margin-bottom: -235px;
+    padding-bottom: 80px;
+    margin-top: -244px;
+}
+
+.ligne_horizontal {
+    border: 1px solid black;
+    margin-left: 355px;
+    width: 225px;
+    margin-bottom: -110px;
+    margin-top: -105px;
+}
+
+.ligne_horizontal2 {
+    border: 1px solid black;
+    margin-left: 355px;
+    width: 226px;
+    margin-top: 138px;
+}
+
+.ligne_horizontal3 {
+    border: 1px solid black;
+    margin-left: 355px;
+    width: 225px;
+    margin-top: 25px;
+}
+
+.carré{
+    border: 1px solid black;
+    margin-left: 355px;
+    width: 15px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.carré2 {
+    border: 1px solid black;
+    margin-left: 375px;
+    width: 15px;
+    margin-top: -22px;
+    padding-bottom: 20px;
+}
+
+.carré3 {
+    border: 1px solid black;
+    margin-left: 395px;
+    margin-top: -22px;
+    padding-bottom: 20px;
+    width: 15px;
+}
+
+.carré4 {
+    border: 1px solid black;
+    margin-left: 415px;
+    margin-top: -22px;
+    padding-bottom: 20px;
+    width: 15px;
+}
+
+.carré5 {
+    border: 1px solid black;
+    margin-left: 435px;
+    margin-top: -22px;
+    padding-bottom: 20px;
+    width: 15px;
+}
+
+.ligne_horizontal4 {
+    border: 1px solid black;
+    margin-left: 460px;
+    width: 120px;
+}

@@ -1,0 +1,14 @@
+div, p {
+    font-family: "Courier New";
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+}
+
+div {
+    background-color: yellow;
+    border: 1px solid blue;
+    padding-top: 200px;
+}
