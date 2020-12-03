@@ -1,0 +1,61 @@
+h1 {
+    caption-side: bottom;
+    font-size: 15px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    empty-cells:show;
+    border: 1px solid black;
+    margin-left: 40em;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+.couleur_bleu {
+    color: blue;
+    font-weight: bold;
+}
+
+.couleur_red {
+    color: crimson;
+    font-weight: bold;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.bordure_bleu {
+    border-bottom: 1px solid black;
+}
+
+.firstLine {
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.bleuciel {
+    background-color: dodgerblue;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.violet {
+    background-color: blueviolet;
+}
+
+.rose {
+    background-color: deeppink;
+}
+
+.jaune {
+    background-color: yellow;
+}
+

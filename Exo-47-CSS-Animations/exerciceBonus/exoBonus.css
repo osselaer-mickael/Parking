@@ -1,0 +1,211 @@
+
+
+#rect {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+
+}
+
+#roue1 {
+    display: inline-block;
+
+    position: relative;
+     width: 50px;
+     height: 50px;
+     left: 10px;
+     border-radius: 100%;
+     border-style: dashed;
+     background-color: blue;
+     animation-name: rotation-roue;
+     animation-duration: 10s;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+#roue2 {
+    display: inline-block;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    border-radius: 100%;
+    border-style: dashed;
+    background-color: blue;
+    animation-name: rotation-roue;
+    animation-duration: 10s;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+
+#voiture {
+    top: 150px;
+    position: absolute;
+    animation-name: direction-voiture;
+    animation-duration: 10s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes direction-voiture {
+    0% {
+        left: 0;
+    }
+
+    10% {
+        left: 10rem;
+    }
+
+    20% {
+        left: 20rem;
+    }
+
+    30% {
+        left: 30rem;
+    }
+
+    40% {
+        left: 40rem;
+    }
+
+    50% {
+        left: 50rem;
+    }
+
+    60% {
+        left: 60rem;
+    }
+
+    70%{
+        left: 70rem;
+    }
+
+    80% {
+        left: 80rem;
+    }
+
+    90% {
+        left: 90rem;
+    }
+
+    100% {
+        left: 100rem;
+    }
+}
+
+@keyframes rotation-roue {
+    from {
+        transform: rotate(0deg);}
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+#ciel {
+    position: absolute;
+    background-color: aqua;
+    width: 2000px;
+    height: 300px;
+}
+
+#n1 {
+    top: 0;
+    left: 20px;
+    position: absolute;
+    border-radius: 100%;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
+
+#n2 {
+    top: 25px;
+    left: 0;
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+#n3 {
+    top: 25px;
+    left: 50px;
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+#n4 {
+    top: 50px;
+    left:30px;
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+
+#nuage {
+    position: absolute;
+    animation-name: nuage;
+    animation-duration: 20s;
+    animation-direction: reverse;
+    animation-iteration-count: infinite;
+}
+
+
+
+@keyframes nuage {
+    0% {
+        left: 0;
+    }
+
+    10% {
+       left: 10rem;
+    }
+
+    20% {
+        left: 20rem;
+    }
+
+    30% {
+        left: 30rem;
+    }
+
+    40% {
+        left: 40rem;
+    }
+
+    50% {
+        left: 50rem;
+    }
+
+    60% {
+        left: 60rem;
+    }
+
+    70%{
+        left: 70rem;
+    }
+
+    80% {
+        left: 80rem;
+    }
+
+    90% {
+        left: 90rem;
+    }
+
+    100% {
+        left: 100rem;
+    }
+}

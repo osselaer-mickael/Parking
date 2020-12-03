@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+#container {
+    background-color: crimson;
+    animation-name: taille, couleur;
+    animation-duration: 10s;
+    animation-direction: alternate;
+}
+
+#animation {
+    margin: 2rem auto;
+    border: 1px solid black;
+    width: 25%;
+    height: 25rem;
+    background-color: black;
+    animation-name: rotation, form;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+
+}
+
+p {
+    color: white;
+    animation-name: text;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#bonus {
+    border: 2px solid black;
+    margin: 20rem auto;
+    width: 25%;
+    height: 25rem;
+    animation-name: balade;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes balade {
+    0% {
+        margin-left: 0;
+    }
+    25% {
+        margin-left: 25rem;
+    }
+
+    50% {
+        margin-left: 50rem;
+    }
+
+    75% {
+        margin-left: 75rem;
+    }
+
+    100% {
+        margin-left: 100rem;
+    }
+}
+
+@keyframes taille {
+    from {
+        transform: scale(1.50, 1.50);
+    }
+
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes couleur {
+    from {
+    background-color: gray;
+    }
+}
+
+@keyframes text {
+    from {
+        font-size: 2rem;
+    }
+}
+
+@keyframes form {
+    from {
+        width: 50%;
+        height: 50rem;
+        background-color: blue;
+
+    }
+}

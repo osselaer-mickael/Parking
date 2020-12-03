@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 150rem;
+    display: flex;
+}
+#container {
+    width: 40%;
+    height: 40rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.carré1, .carré2 {
+    width: 30%;
+    height: 15rem;
+    border: 1px solid black;
+}
+
+.carré1 {
+    background-color: cadetblue;
+    margin-top: 10rem;
+    margin-right: 2.5rem;
+}
+
+.carré2 {
+    background-color: blue;
+    margin-top: 10rem;
+}

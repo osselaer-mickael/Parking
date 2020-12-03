@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-color: black;
+}
+
+#container{
+    width: 60%;
+    height: 50rem;
+    border: 2px solid white;
+    border-radius: 1.5rem;
+    margin: 10rem auto auto;
+}
+
+#chrono {
+    width: 60%;
+    margin: 13rem auto auto;
+    border: 2px solid white;
+    border-radius: 1.5rem;
+}
+
+#span1 {
+    font-size: 20rem;
+    color: white;
+    font-family: Castellar, sans-serif;
+    margin: auto auto auto 12rem;
+}
+
+#span2 {
+    font-size: 10rem;
+    color: white;
+    font-family: Castellar, sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 10rem;
+    font-family: Castellar;
+}

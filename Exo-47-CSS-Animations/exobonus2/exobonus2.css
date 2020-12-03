@@ -1,0 +1,53 @@
+
+#batis {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    background-color: red;
+    width: 250px;
+    height:500px;
+}
+
+#axe {
+    background-color: black;
+    position: relative;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    left:75px;
+    top: 100px;
+}
+
+#palmeG {
+     position: relative;
+     background-color: black;
+     width: 400px;
+     height: 20px;
+     top: 40px;
+     left: -70px;
+}
+
+#palmeH {
+    position: relative;
+    background-color: black;
+    width: 20px;
+    height: 400px;
+    top: -175px;
+    left: 117px;
+}
+
+#helice {
+    animation-name: rotHelice;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes rotHelice {
+    from {
+       transform: rotate(0deg);}
+
+    to {
+       transform: rotate(360deg);
+      }
+}

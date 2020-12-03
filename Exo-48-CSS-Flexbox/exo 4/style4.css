@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 150rem;
+}
+
+#container {
+    width: 40%;
+    height: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-around;
+    border: 1px solid black;
+}
+
+.carré1, .carré2, .carré3, .carré4, .carré5, .carré6, .carré7, .carré8 {
+    width: 15%;
+    height: 10rem;
+    margin-top: 2rem;
+}
+
+.carré9 {
+    width: 15%;
+    height:46rem;
+    margin-top: 2rem;
+}
+
+.carré1, .carré6 {
+    background-color: cadetblue;
+}
+
+.carré2, .carré7 {
+    background-color: blue;
+}
+
+.carré3, .carré8 {
+    background-color: purple;
+}
+
+.carré4, .carré9 {
+    background-color: orange;
+}
+
+.carré5 {
+    background-color: red;
+}

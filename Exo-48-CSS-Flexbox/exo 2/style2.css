@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 150rem;
+    display: flex;
+}
+
+#container {
+    width: 45%;
+    height: 40rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.carré1, .carré2, .carré3, .carré4 {
+    margin-top: 2rem;
+    width: 20%;
+    height: 10rem;
+}
+
+.rectangle5 {
+    width: 95%;
+    height: 10rem;
+}
+
+.carré6, .carré7, .carré8, .carré9 {
+    width: 20%;
+    height: 10rem;
+}
+
+.carré1, .carré6 {
+    background-color: cadetblue;
+}
+
+.carré2, .carré7 {
+    background-color: blue;
+}
+
+.carré3, .carré8 {
+    background-color: purple;
+}
+
+.carré4, .carré9 {
+    background-color: orange;
+}
+
+.rectangle5 {
+    background-color: red;
+}
+
+#container2 {
+    width: 20%;
+    height: 35rem;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+.triangle1, .triangle2, .triangle3, .triangle4 {
+    width: 20%;
+    height: 10rem;
+    margin-top: 1rem;
+    border: 1px solid black;
+}
+
+.triangle5 {
+    width: 95%;
+    height: 10rem;
+    border: 1px solid black;
+}
+
+.triangle6, .triangle7, .triangle8, .triangle9 {
+    width: 20%;
+    height: 10rem;
+    border: 1px solid black;
+}
+
+.triangle1, .triangle6, .rond1 {
+    background-color: cadetblue;
+}
+
+.triangle2, .triangle7, .rond2 {
+    background-color: blue;
+}
+
+.triangle3, .triangle8, .rond3 {
+    background-color: purple;
+}
+
+.triangle4, .triangle9, .rond4 {
+    background-color: orange;
+}
+
+.triangle5, .rond5 {
+    background-color: red;
+}
+
+#container3 {
+    width: 10%;
+    height: 55rem;
+    margin-left: 5rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.rond1, .rond2, .rond3, .rond4, .rond5 {
+    width: 95%;
+    height: 10rem;
+    border: 1px solid black;
+    margin-left: 0.3rem;
+}
+

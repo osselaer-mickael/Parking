@@ -1,0 +1,28 @@
+#foo {
+    width: 100px;
+    height: 100px;
+    background: red;
+    animation-name: bgchange;
+    animation-duration: 3s;
+}
+
+@keyframes bgchange {
+    5%{
+    background-color: red;}
+
+    25% {
+        background-color: crimson;
+    }
+
+    50% {
+        background-color: brown;
+    }
+
+    75% {
+        background-color: darkgreen;
+    }
+
+    100% {
+        background-color: green;
+    }
+}

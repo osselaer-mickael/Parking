@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53361a27-9e5a-4d5d-9f55-3affd5ae9110" name="Default Changelist" comment="eval-front">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jyOLW4TmsOJOw8F4Rhf4UdgzMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53361a27-9e5a-4d5d-9f55-3affd5ae9110" name="Default Changelist" comment="" />
+      <created>1604772808279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604772808279</updated>
+      <workItem from="1604772809323" duration="11171000" />
+      <workItem from="1604786193957" duration="617000" />
+      <workItem from="1604827422057" duration="559000" />
+      <workItem from="1604828280105" duration="71000" />
+      <workItem from="1604839355079" duration="4000" />
+      <workItem from="1604929630519" duration="51000" />
+      <workItem from="1604929684715" duration="1000" />
+      <workItem from="1604967715213" duration="122000" />
+      <workItem from="1605255833728" duration="621000" />
+      <workItem from="1605272704547" duration="3620000" />
+      <workItem from="1605276564351" duration="343000" />
+      <workItem from="1605276981254" duration="532000" />
+      <workItem from="1605277842137" duration="2671000" />
+      <workItem from="1605283326638" duration="3386000" />
+      <workItem from="1605287545146" duration="2635000" />
+      <workItem from="1605293300945" duration="3090000" />
+      <workItem from="1605296988594" duration="578000" />
+      <workItem from="1605345191388" duration="10226000" />
+      <workItem from="1605363399832" duration="314000" />
+      <workItem from="1605395751503" duration="25000" />
+      <workItem from="1605444280319" duration="3238000" />
+      <workItem from="1605447641785" duration="377000" />
+      <workItem from="1605448345376" duration="805000" />
+      <workItem from="1605514073456" duration="3256000" />
+      <workItem from="1605517596036" duration="242000" />
+      <workItem from="1605519866183" duration="2000" />
+      <workItem from="1605520312805" duration="215000" />
+      <workItem from="1605520538928" duration="1000" />
+      <workItem from="1605527340257" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="eval-front">
+      <created>1604827911542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604827911542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eval-front">
+      <created>1605355245798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605355245798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eval-front">
+      <created>1605449137749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605449137750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="eval-front">
+      <created>1605517043381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605517043381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eval-front" />
+    <option name="LAST_COMMIT_MESSAGE" value="eval-front" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605272836509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1605272836509" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605272937538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1605272937538" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1605517045345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1605517045345" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605449140693" />
+  </component>
+</project>

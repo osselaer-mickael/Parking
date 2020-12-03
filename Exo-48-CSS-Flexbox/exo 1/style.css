@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 150rem;
+}
+
+#container {
+    width: 100%;
+    height: 50rem;
+    display: flex;
+}
+
+.rectangle1, .rectangle2, .rectangle3, .rectangle4, .rectangle5, .rectangle6, .rectangle7, .rectangle8 {
+    width: 12.5%;
+}
+
+.rectangle1 {
+    background-color: cadetblue;
+}
+
+.rectangle2 {
+    background-color: blue;
+}
+
+.rectangle3 {
+    background-color: purple;
+}
+
+.rectangle4 {
+    background-color: orange;
+}
+
+.rectangle5 {
+    background-color: red;
+}
+
+.rectangle6 {
+    background-color: cadetblue;
+}
+
+.rectangle7 {
+    background-color: blue;
+}
+
+.rectangle8 {
+    background-color: purple;
+}
+
+
+#container2 {
+    margin-top: 2rem;
+    width: 100%;
+    height: 50rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.carré1, .carré2, .carré3, .carré4, .carré5, .carré6, .carré7, .carré8 {
+    width: 25%;
+    height: 25rem;
+}
+
+.carré1 {
+    background-color: cadetblue;
+}
+
+.carré2 {
+    background-color: blue;
+}
+
+.carré3 {
+    background-color: purple;
+}
+
+.carré4 {
+    background-color: orange;
+}
+
+.carré5 {
+    background-color: red;
+}
+
+.carré6 {
+    background-color: cadetblue;
+}
+
+.carré7 {
+    background-color: blue;
+}
+
+.carré8 {
+    background-color: purple;
+}
+
+#container3 {
+    margin-top: 2rem;
+    width: 100%;
+    height: 55rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.rond1, .rond2, .rond3, .rond4, .rond5, .rond6, .rond7, .rond8 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 21%;
+    height: 25rem;
+}
+
+.rond1 {
+    background-color: cadetblue;
+}
+
+.rond2 {
+    background-color: blue;
+}
+
+.rond3 {
+    background-color: purple;
+}
+.rond4 {
+    background-color: orange;
+}
+
+.rond5 {
+   background-color:red ;
+}
+
+.rond6 {
+    background-color: cadetblue ;
+}
+
+.rond7 {
+    background-color: blue;
+}
+
+.rond8 {
+   background-color: purple;
+}
