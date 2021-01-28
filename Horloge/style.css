@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    width: 50%;
+    height: 70rem;
+    margin-left: 0.5rem;
+    background-image: url("horloge2.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+}
+
+#heure, #minute, #seconde {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: bottom;
+    border-radius: 2px;
+}
+
+#heure {
+    height: 10rem;
+    margin-top: 1rem;
+    border: 3px solid black;
+}
+
+#minute {
+    height: 15rem;
+    margin-top: 1rem;
+    border: 2px solid green;
+}
+
+#seconde {
+    height: 20rem;
+    margin-top: 1rem;
+    border: 1px solid red;
+}
+
+
+

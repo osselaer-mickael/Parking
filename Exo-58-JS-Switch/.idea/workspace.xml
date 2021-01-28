@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="113fbb69-c139-436a-a61b-2b6445423e9a" name="Default Changelist" comment="exercice58">
-      <change beforePath="$PROJECT_DIR$/exo 1/exercice1.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 1/exercice1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo 2/exercice2.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 2/exercice2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +41,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l0wQvnIVMT7JmsWtdRMTMy11RL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,6 +67,8 @@
       <workItem from="1606747304313" duration="3030000" />
       <workItem from="1606750725668" duration="7000" />
       <workItem from="1606750756049" duration="1618000" />
+      <workItem from="1607070032778" duration="95000" />
+      <workItem from="1607070149419" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="exercice58">
       <created>1606750285462</created>

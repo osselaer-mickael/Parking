@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7bc487-40e0-4e1a-80d1-e483fcb1d5a0" name="Default Changelist" comment="exercice52" />
+    <list default="true" id="0d7bc487-40e0-4e1a-80d1-e483fcb1d5a0" name="Default Changelist" comment="exercice52">
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/exo 2/exercice2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/exo 2/exercice2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +44,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1kjlNLhgPEvkVhL16tXsMUHnW0t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606221840368</updated>
       <workItem from="1606221841984" duration="1340000" />
+      <workItem from="1607070353310" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="exercice52">
       <created>1606223026165</created>
@@ -83,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercice52" />

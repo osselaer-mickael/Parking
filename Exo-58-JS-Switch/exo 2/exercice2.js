@@ -6,4 +6,5 @@ switch(fruits) {
     case "Apple":
         alert("Welcome")
         break;
+    default: "rien"
 }

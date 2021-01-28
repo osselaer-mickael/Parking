@@ -19,7 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="908b664b-3d3f-4cf4-8d68-cca66059df87" name="Default Changelist" comment="exercice62" />
+    <list default="true" id="908b664b-3d3f-4cf4-8d68-cca66059df87" name="Default Changelist" comment="exercice62">
+      <change beforePath="$PROJECT_DIR$/../Exo-52-JS-Les-conditions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-52-JS-Les-conditions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-52-JS-Les-conditions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-52-JS-Les-conditions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-57-JS-Bases/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-57-JS-Bases/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-57-JS-Bases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-57-JS-Bases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-58-JS-Switch/exo 2/exercice2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-58-JS-Switch/exo 2/exercice2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-60-JS-Bases-2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-60-JS-Bases-2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-60-JS-Bases-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-60-JS-Bases-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 3/exercice3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo-61-JS-While/exo 4/exercice4.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,9 +50,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l34u6IPaTnCdOhivm8Ef88sgsD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +62,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +75,7 @@
       <updated>1606812661006</updated>
       <workItem from="1606812662070" duration="1053000" />
       <workItem from="1606819803543" duration="22000" />
+      <workItem from="1607070489542" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="exercice62">
       <created>1606819816069</created>

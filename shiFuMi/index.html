@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Jeu du chi-fou-mi</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div id="container1">
+        <h1>Jeu du Chi-Fou-Mi</h1>
+        <div id="container2">
+            <div id="players">
+                <span class="span1">Joueur 1</span>
+                <span class="span2">Joueur 2</span>
+            </div>
+            <div id="container3">
+                <div id="camp1"></div>
+                <div id="milieu"></div>
+                <div id="cercle">
+                    <!-- Ton décompte ! -->
+                </div>
+                <div id="camp2"></div>
+            </div>
+        </div>
+        <div id="container4">
+            <button id="bouton_jeu1">
+                <img class="image1" alt="image1" src="SPOILER_pierre.png" height="190" width="142" alt="bouton jeu 1"/>
+            </button>
+            <button id="bouton_jeu2">
+                <img class="image2" alt="image2" src="SPOILER_papier.png" height="190" width="131"/></button>
+            <button id="bouton_jeu3">
+                <img class="image3" alt="image3" src="SPOILER_ciseau.png" height="190" width="120"/></button>
+            <h2>Score :</h2>
+        </div>
+        <div id="container5">
+            <div id="cadran">
+                <p id="para3"></p>
+            </div>
+            <div id="score1">
+                <p id="para1">0</p>
+            </div>
+            <div id="score2">
+                <p id="para2">0</p>
+            </div>
+            <button id="commencer">Recommencer</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

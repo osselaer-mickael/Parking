@@ -29,9 +29,10 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1l33c9yXSkaKEzzT6yX7VhY0OEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,6 +54,8 @@
       <workItem from="1606812024185" duration="76000" />
       <workItem from="1606812120870" duration="512000" />
       <workItem from="1606819772915" duration="27000" />
+      <workItem from="1607069928519" duration="90000" />
+      <workItem from="1607070022188" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="exercice61">
       <created>1606819788435</created>
@@ -77,6 +80,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercice61" />

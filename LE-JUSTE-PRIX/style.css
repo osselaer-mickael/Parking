@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+#container {
+    width: 70%;
+    height: 60rem;
+    margin: 7.5rem auto auto auto;
+    border: 2px solid lightgrey;
+    border-radius: 1rem;
+    background-color: cornflowerblue;
+    background-image: url("maxresdefault.jpg");
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 3rem;
+    animation-name: font;
+    animation-duration: 2s;
+}
+
+@keyframes font {
+    0% {
+        font-size: 4rem;
+    }
+
+    25% {
+        font-size: 5rem;
+    }
+
+    50% {
+        font-size: 6rem;
+    }
+
+    75% {
+        font-size: 5rem;
+    }
+
+    100% {
+        font-size: 4rem;
+    }
+}
+
+#input {
+    margin-top: 20rem;
+    z-index: auto;
+    margin-left: 39rem;
+}
+
+#test {
+    width: 40%;
+    height: 4rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: mediumblue;
+    color: white;
+}
+
+button {
+    width: 20%;
+    height: 4rem;
+    background-color: mediumblue;
+    color: white;
+    border-radius: 10px;
+    margin-left: 42rem;
+}
+
+.recommencer {
+    width: 20%;
+    height: 4rem;
+    background-color: mediumblue;
+    color: white;
+    border-radius: 10px;
+    margin-left: 42rem;
+    margin-top: 1.5rem;
+}
+
+#utilise {
+    border: 2px solid gold;
+    background-color: mediumpurple;
+    color: gold;
+    width: 20%;
+    height: 4rem;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+

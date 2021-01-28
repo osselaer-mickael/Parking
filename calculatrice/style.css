@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 29%;
+    height: 50rem;
+    margin-top: 15rem;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+#cadran {
+    width: 90%;
+    height: 10rem;
+    background-color: lightgreen;
+    margin-top: 1rem;
+    margin-left: 2.4rem;
+    margin-bottom: 4rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 0.5rem;
+    font-size: 2.5rem;
+}
+
+p {
+    color: white;
+    font-size: 4rem;
+    text-align: right;
+}
+
+.bouton{
+    height: 9rem;
+    font-size: 2rem;
+    display: grid;
+    grid-template-columns: repeat(4, 106px);
+    grid-template-rows: repeat(5, 50px);
+    grid-gap: 1rem;
+}
+
+button {
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 18rem 18rem;
+    font-size: 2rem;
+}
+
+#grand_bouton {
+    width: 80%;
+    grid-column: span 2;
+}
+
+#bouton1, #bouton2, #bouton3 {
+    background-color: lightgrey;
+}
+
+#bouton4, #bouton8, #bouton12, #bouton16, #bouton19 {
+    background-color: orange;
+}
