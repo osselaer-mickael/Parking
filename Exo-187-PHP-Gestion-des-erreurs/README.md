@@ -1,0 +1,1 @@
+# Exo-187-PHP-Gestion-des-erreurs

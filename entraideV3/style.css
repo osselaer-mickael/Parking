@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-image: url("devenir-commerçant-en-étant-bien-accompagné-cest-possible.jpg");
+}
+
+/* #container, tous le contenu de la bordure en tête de page.*/
+
+#container {
+    width: 100%;
+    height: 10rem;
+    background-color: #1876f2;
+    display: flex;
+    flex-direction: row;
+}
+
+.fa-leaf {
+    color: white;
+    font-size: 8rem;
+    margin-left: 18rem;
+    margin-top: 0.5rem;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    font-family: "Century Gothic", sans-serif;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: STSong, sans-serif;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+a {
+    color: white;
+    text-decoration-line: none;
+    font-size: 2rem;
+    font-family: STSong, sans-serif;
+}
+
+#lien1 {
+    margin-left: 43.5rem;
+    margin-top: 3.5rem;
+}
+
+.border {
+    height: 3rem;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 1.5rem;
+    margin-top: 3rem;
+    background-color: white;
+}
+
+#lien2 {
+    margin-left: 1.5rem;
+    margin-top: 3.5rem;
+}
+
+/*le #container2 contient les paragraphes et le formulair.*/
+
+#container2 {
+    width: 100%;
+    height: 45rem;
+    margin-top: 7.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.paragraphe {
+    width: 35%;
+    height: 43rem;
+    margin-left: 10rem;
+    margin-top: 3.5rem;
+    background-color: #1876f2;
+    border: 1px solid #1876f2;
+    border-radius: 1rem;
+}
+
+p {
+    margin: 15px;
+    font-size: 2rem;
+    color: white;
+}
+
+.paragraphe1 {
+    line-height: 2.5rem;
+    margin: 2.5rem 4.5rem 2.5rem 5.5rem;
+}
+
+.paragraphe2 {
+    font-size: 4rem;
+    margin-left: 7rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.paragraphe3 {
+    margin-left: 17rem;
+    display: inline-block;
+    margin-top: 0;
+}
+
+.fa-arrow-right {
+    font-size: 3rem;
+    color: white;
+}
+
+img {
+    width: 25%;
+    height: 7rem;
+    margin-top: 0.5rem;
+    margin-left: 6rem;
+}
+
+.logo_face {
+    margin-left: 11rem;
+}
+
+/* le formulair est contenu dans le #container2. */
+
+.formulair {
+    width: 30%;
+    height: 50rem;
+    border-radius: 1rem;
+    background-color: white;
+    margin-left: 35rem;
+}
+
+hr {
+    width: 95%;
+    margin-top: 3rem;
+    margin-left: 1.5rem;
+    color: lightgrey;
+}
+
+h3 {
+    font-size: 2rem;
+    color: grey;
+    border-right: 1rem solid white;
+    border-radius: 1rem;
+    border-left: 1rem solid white;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: -15px;
+    width: 54%;
+}
+
+input {
+    width: 40%;
+    height: 3.5rem;
+    border: 2px solid lightgrey;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: grey;
+}
+
+#last_name, #name {
+    margin-top: 2rem;
+}
+
+#mail, #nom_commerce, #adresse {
+    width: 86%;
+}
+
+.second_h3 {
+    width: 57%;
+}
+
+#nom_commerce {
+    margin-top: 2rem;
+}
+
+#pays, #ville, #code_postal {
+    width: 25.5%;
+}
+
+#ville, #code_postal {
+    margin-left: 1.9rem;
+}
+
+button {
+    width: 50%;
+    height: 4rem;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    box-shadow: 8px 6px 10px lightgrey;
+    background-color: limegreen;
+    font-size: 2rem;
+    color: white;
+    margin-left: 12rem;
+    margin-top: 2rem;
+}
+

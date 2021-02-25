@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddeadc79-9738-44f1-8ee8-602932473159" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angelina_jolie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/angelina_jolie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brad_pitt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/brad_pitt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/image_background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/le-monde-de-nemo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageNemo/le-monde-de-nemo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leonardo_dicaprio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/leonardo_dicaprio.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/margaux_robbie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/margaux_robbie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matt_damon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/matt_damon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/milla_jovovich.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/milla_jovovich.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nemo_background.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/imageNemo/nemo_background.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ryan_gosling.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/ryan_gosling.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scarlett_johansson.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imageCinema/scarlett_johansson.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/osselaer-mickael/memoryV2" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n0TNj9lxS6DZb5ZlljCx66R1mA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imageCinema" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\momo\OneDrive\Bureau\REPO\memoryV2\imageCinema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\momo\OneDrive\Bureau\REPO\memoryV2\imageNemo" />
+      <recent name="C:\Users\momo\OneDrive\Bureau\REPO\memoryV2\imageCinema" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddeadc79-9738-44f1-8ee8-602932473159" name="Default Changelist" comment="" />
+      <created>1610525969845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610525969845</updated>
+      <workItem from="1610525971036" duration="16610000" />
+      <workItem from="1610556186115" duration="42000" />
+      <workItem from="1610607961133" duration="10859000" />
+      <workItem from="1610635650135" duration="655000" />
+      <workItem from="1610698071607" duration="1023000" />
+      <workItem from="1610702533247" duration="18639000" />
+      <workItem from="1610727455903" duration="1061000" />
+      <workItem from="1610819582661" duration="1296000" />
+      <workItem from="1610878976008" duration="7251000" />
+      <workItem from="1610886302342" duration="464000" />
+      <workItem from="1610886773513" duration="14266000" />
+      <workItem from="1610910467975" duration="233000" />
+      <workItem from="1610920291466" duration="4434000" />
+      <workItem from="1610957859021" duration="4251000" />
+      <workItem from="1610966531571" duration="3000" />
+      <workItem from="1610968172199" duration="3341000" />
+      <workItem from="1610971953133" duration="73000" />
+      <workItem from="1610972127112" duration="603000" />
+      <workItem from="1610977830007" duration="594000" />
+      <workItem from="1610990865829" duration="214000" />
+      <workItem from="1610991189612" duration="1058000" />
+      <workItem from="1611046420744" duration="2972000" />
+      <workItem from="1611058010117" duration="1091000" />
+      <workItem from="1611062317957" duration="3072000" />
+      <workItem from="1611131900393" duration="7940000" />
+      <workItem from="1611306848309" duration="2000" />
+      <workItem from="1611310509790" duration="5783000" />
+      <workItem from="1611409491891" duration="316000" />
+      <workItem from="1611652194433" duration="754000" />
+      <workItem from="1612184717452" duration="47000" />
+      <workItem from="1612185504244" duration="1000" />
+      <workItem from="1612188804194" duration="109000" />
+    </task>
+    <task id="LOCAL-00001" summary="memoryV2">
+      <created>1610727950369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610727950369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="memoryV2">
+      <created>1610728350340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610728350340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="memoryV2">
+      <created>1610923210353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610923210353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="memoryV2">
+      <created>1610924444615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610924444616</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="memoryV2" />
+    <option name="LAST_COMMIT_MESSAGE" value="memoryV2" />
+  </component>
+</project>

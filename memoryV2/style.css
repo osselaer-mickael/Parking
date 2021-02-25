@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-image: url("imageCinema/image_background.png");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+}
+
+#container {
+    width: 70%;
+    height: 80vh;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+#container_left {
+    width: 40%;
+    height: 80vh;
+    background-image: url("imageCinema/image_card_20thCF.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 150%;
+    color: gold;
+    font-family: "Agency FB", sans-serif;
+}
+
+.theme, .level, .start, .tittle_score, .score {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#theme, #level {
+    width: 60%;
+    height: 4vh;
+    margin: 2rem;
+    border: 2px solid gold;
+    border-radius: 1.5rem;
+}
+
+#level {
+    margin-left: 3rem;
+}
+
+select {
+    background-color: #a6c0fe;
+    color: white;
+    font-size: 150%;
+}
+
+select:hover {
+    background-color: #a6c0fe;
+    color: white;
+    border-radius: 1.5rem;
+    opacity: 0.7;
+}
+
+#start {
+    width: 50%;
+    height: 4rem;
+    margin: 2rem;
+    border-radius: 1.5rem ;
+    background-color: #a6c0fe;
+    font-size: 100%;
+    color: white;
+}
+
+.border {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#border {
+    width: 80%;
+    margin: 4rem;
+    border: 2px solid gold;
+    border-radius: 1.5rem;
+}
+
+p, span {
+    border: 2px solid white;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    color: gold;
+    background-color: #a6c0fe;
+    font-size: 300%;
+    font-family: "Agency FB", sans-serif;
+}
+
+span {
+    margin: 2rem;
+    padding: 2rem 4rem;
+    font-size: 300%;
+}
+
+#container_right {
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#centuryFox {
+    width: 100%;
+    height: 25vh;
+}
+
+#card {
+    width: 25%;
+    height: 30vh;
+    border: 2px solid gold;
+    border-radius: 1.5rem;
+    background-image: url("imageCinema/image_card_20thCF.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container_card {
+    width: 100%;
+    height: 78vh;
+    margin: 1rem;
+    border: 2px solid gold;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    position: relative;
+    width: 100px;
+    height: 15vh;
+    border: 2px solid gold;
+    border-radius: 1.5rem;
+    margin: 0.5rem;
+}
+
+#cinema {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 4rem;
+    color: gold;
+}
+
+.nemoimg {
+    width: 100px;
+    height: 15vh;
+    display: none;
+}
+
+@media screen and (max-width: 1200px){
+    #container {
+        width: 100%;
+    }
+}
+
+@media screen and (max-height: 900px) {
+    body {
+        padding: 0;
+    }
+    #container, #container_left, #container_right{
+        height: 100vh;
+    }
+
+    #container_card {
+        height: 95vh;
+    }
+    body {
+        padding: 0;
+    }
+}
+@media screen and (max-width: 900px) {
+    #container {
+        width: 100%;
+    }
+
+    body {
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-height: 650PX){
+    body {
+        padding: 0;
+    }
+
+    #container, #container_left, #container_right {
+        height: 100vh;
+    }
+
+    #container_card {
+        height: 95vh;
+    }
+    #container_card {
+        height: 95vh;
+    }
+}
+
+@media screen and (max-height: 500px) {
+    #theme, #level {
+        height: 7vh;
+        margin: 1rem;
+    }
+
+    p {
+        padding: 0;
+    }
+
+    #start, #border, p, span {
+        margin: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    #container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #container, #container_left, #container_right {
+        width: 100%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+
+    #container_left {
+        display: flex;
+        flex-direction: row;
+        height: 15vh;
+        padding: 0.5rem;
+
+    }
+
+    #my_selects {
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        margin-left: 2rem;
+    }
+
+    #theme, #level {
+        width: auto;
+        margin: 1rem;
+    }
+
+    option {
+        font-size: 100%;
+    }
+
+    p {
+        font-size: 200%;
+    }
+
+    #border {
+        display: none;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #container, #container_right {
+        width: 100%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-height: 500px){
+    #card {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #card {
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    #card {
+        display: none;
+    }
+}
+
+
+
