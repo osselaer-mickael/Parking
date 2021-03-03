@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4cfbf4-982b-4325-932e-c4040e26b54a" name="Default Changelist" comment="" />
+    <list default="true" id="5df312ea-33ba-4c7f-9d39-41cf3ff19048" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,31 +14,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectId" id="1p12iYCZ6fkW2gEDbHHaGQiuq1m" />
+  <component name="ProjectId" id="1p1NNrxiCazISmf1Bhvn5SDJpW6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Exo-193-PHP-SQL-supprimer-des-donnees" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff4cfbf4-982b-4325-932e-c4040e26b54a" name="Default Changelist" comment="" />
-      <created>1614336406002</created>
+      <changelist id="5df312ea-33ba-4c7f-9d39-41cf3ff19048" name="Default Changelist" comment="" />
+      <created>1614346599552</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614336406002</updated>
-      <workItem from="1614336409081" duration="3643000" />
-      <workItem from="1614763496765" duration="73000" />
+      <updated>1614346599552</updated>
+      <workItem from="1614346600750" duration="1699000" />
+      <workItem from="1614370721528" duration="3000" />
+      <workItem from="1614587597910" duration="1548000" />
+      <workItem from="1614590469336" duration="3963000" />
+      <workItem from="1614763447685" duration="13000" />
     </task>
     <servers />
   </component>

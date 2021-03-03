@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4cfbf4-982b-4325-932e-c4040e26b54a" name="Default Changelist" comment="" />
+    <list default="true" id="a3091653-c841-4202-90d9-175790fdebbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Exo-193-PHP-SQL-supprimer-des-donnees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,34 +20,36 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectId" id="1p12iYCZ6fkW2gEDbHHaGQiuq1m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1p9g1oxKLmAiqbOXVAYN5epjOTN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Exo-193-PHP-SQL-supprimer-des-donnees" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff4cfbf4-982b-4325-932e-c4040e26b54a" name="Default Changelist" comment="" />
-      <created>1614336406002</created>
+      <changelist id="a3091653-c841-4202-90d9-175790fdebbc" name="Default Changelist" comment="" />
+      <created>1614600510523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614336406002</updated>
-      <workItem from="1614336409081" duration="3643000" />
-      <workItem from="1614763496765" duration="73000" />
+      <updated>1614600510523</updated>
+      <workItem from="1614600513427" duration="2554000" />
+      <workItem from="1614607887120" duration="33000" />
+      <workItem from="1614763516358" duration="52000" />
     </task>
     <servers />
   </component>
